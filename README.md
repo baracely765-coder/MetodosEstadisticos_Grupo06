@@ -17,4 +17,4 @@ Sistematizar los procedimientos de análisis estadístico para facilitar la inte
 3.	Análisis estadístico descriptivo. 
 4.	Análisis estadístico inferencial. 
 5.	Visualización de resultados. 
-6.	Interpretación y conclusiones. ## Estado del proyecto En desarrollo. 
+6.	Interpretación y conclusiones. ## Estado del proyecto En desarrollo.
